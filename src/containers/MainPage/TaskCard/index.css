@@ -1,0 +1,32 @@
+.task {
+  position: relative;
+  padding: 10px 20px;
+  background-color: #8fbc8f55;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.task__top-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.task-text-bold {
+  font-weight: bold;
+}
+
+.task__btn-wrapper .btn:first-child {
+  margin-right: 20px;
+}
+
+.task__btn-wrapper {
+
+}
+
+.task__message {
+  position: absolute;
+  left: 50%;
+  top: 10px;
+  transform: translateX(-50%);
+}

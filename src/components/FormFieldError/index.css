@@ -1,0 +1,11 @@
+.field-error {
+  min-height: 20px;
+  display: flex;
+  padding-top: 4px;
+}
+
+.field-error__text {
+  font-size: 12px;
+  line-height: 14px;
+  color: red;
+}

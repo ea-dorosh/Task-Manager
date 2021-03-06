@@ -1,0 +1,25 @@
+.new-task {
+  position: relative;
+}
+
+.new-task__form {
+  margin-top: 23px;
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+.new-task__btn-wrapper {
+  margin-top: 20px;
+}
+
+.new-task__btn-wrapper .btn {
+  width: 100%;
+}
+
+.new-task__message {
+  position: absolute;
+  max-width: 400px;
+  width: 100%;
+  top: -71px;
+}

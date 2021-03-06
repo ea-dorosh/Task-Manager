@@ -1,0 +1,20 @@
+.page-login {
+  display: flex;
+}
+
+.login {
+  margin: 150px auto auto;
+  padding: 40px;
+  width: 500px;
+  background: #8fbc8f8f;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0,0,0,.125);
+  border-radius: 4px;
+}
+
+.login__wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

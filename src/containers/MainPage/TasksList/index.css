@@ -1,0 +1,17 @@
+.tasks {
+  width: 60%;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.tasks__header-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.tasks__cards-wrapper {
+  flex-grow: 1;
+}

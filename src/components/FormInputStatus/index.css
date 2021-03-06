@@ -1,0 +1,31 @@
+.input-status-box {
+    padding: 4px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 14px;
+    color: white;
+}
+
+.input-status-box--0 {
+    background-color: #dc3545;
+}
+
+.input-status-box--1 {
+    background-color: #dc3545;
+}
+
+.input-status-box--10 {
+    background-color: #198754;
+}
+
+.input-status-box--11 {
+    background-color: #198754;
+}
+
+.input-status-box input {
+    display: none;
+}
+
+
+

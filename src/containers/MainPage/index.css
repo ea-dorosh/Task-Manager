@@ -1,0 +1,10 @@
+.main-page__wrapper {
+  display: flex;
+  padding: 40px;
+  height: 100%;
+  flex-grow: 1;
+}
+
+.main-page__right-wrapper {
+  width: calc(40% - 30px);
+}
